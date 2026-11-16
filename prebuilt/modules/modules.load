@@ -1,3 +1,6 @@
+adaptive-ts.ko
+novatek_nt36xxx.ko
+focaltech_noflash_common.ko
 mkp.ko
 bootprof.ko
 dbgtop-drm.ko
